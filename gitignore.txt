@@ -1,0 +1,7 @@
+gitignore
+
+__pycache__/
+*.pyc
+smart_glass_demo_output/*.txt
+smart_glass_demo_output/*.png
+smart_glass_demo_output/*.wav

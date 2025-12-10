@@ -1,0 +1,6 @@
+requirements.txt
+
+Pillow
+opencv-python
+pytesseract
+pyttsx3
